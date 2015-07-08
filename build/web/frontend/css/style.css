@@ -1,0 +1,14 @@
+.active {
+    background-color: red;
+    color: white;
+}
+
+.par{
+    background-color: gainsboro;
+    color: dimgrey;
+}
+
+.impar{
+    background-color: aliceblue;
+    color: black;
+}
