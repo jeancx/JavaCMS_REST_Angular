@@ -165,12 +165,6 @@ ALTER TABLE `pages`
  ADD PRIMARY KEY (`ID`);
 
 --
--- Indexes for table `sequence`
---
-ALTER TABLE `sequence`
- ADD PRIMARY KEY (`SEQ_NAME`);
-
---
 -- Indexes for table `users`
 --
 ALTER TABLE `users`

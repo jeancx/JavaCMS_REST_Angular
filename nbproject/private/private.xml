@@ -3,28 +3,38 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/servlet/paginas/PaginasListar.java</file>
-            <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/servlet/artigos/ArtigosEditar.java</file>
             <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/dao/ArtigoJpaController.java</file>
             <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/servlet/artigos/ArtigosNovo.java</file>
             <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/servlet/paginas/PaginaDeletar.java</file>
-            <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/servlet/artigos/ArtigosDeletar.java</file>
-            <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/dao/GaleriaJpaController.java</file>
-            <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/dao/GaleriaImgJpaController.java</file>
-            <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/web/backend/pages/artigos/listar.jsp</file>
             <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/servlet/paginas/PaginasNovo.java</file>
-            <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/servlet/artigos/ArtigosListar.java</file>
+            <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/service/ArtigoFacadeREST.java</file>
+            <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/web/frontend/index.html</file>
             <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/servlet/users/UsersDeletar.java</file>
-            <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/dao/BannerJpaController.java</file>
-            <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/servlet/users/UsersEditar.java</file>
-            <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/web/backend/pages/paginas/listar.jsp</file>
+            <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/controllers/frontend/Index.java</file>
             <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/dao/PageJpaController.java</file>
             <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/dao/MenuJpaController.java</file>
             <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/dao/UserJpaController.java</file>
             <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/models/User.java</file>
+            <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/controllers/backend/AdminIndex.java</file>
             <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/web/backend/partials/header.jsp</file>
-            <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/servlet/users/UsersListar.java</file>
             <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/servlet/paginas/PaginasEditar.java</file>
+            <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/servlet/paginas/PaginasListar.java</file>
+            <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/servlet/artigos/ArtigosEditar.java</file>
+            <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/web/index.html</file>
+            <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/servlet/artigos/ArtigosDeletar.java</file>
+            <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/conf/persistence.xml</file>
+            <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/dao/GaleriaJpaController.java</file>
+            <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/sql/JavaCMS.mysql.sql</file>
+            <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/dao/GaleriaImgJpaController.java</file>
+            <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/setup/glassfish-resources.xml</file>
+            <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/sql/JavaCMS.postgres.sql</file>
+            <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/web/backend/pages/artigos/listar.jsp</file>
+            <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/servlet/artigos/ArtigosListar.java</file>
+            <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/dao/BannerJpaController.java</file>
+            <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/servlet/users/UsersEditar.java</file>
+            <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/web/backend/pages/paginas/listar.jsp</file>
+            <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/servlet/users/UsersListar.java</file>
+            <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/models/Artigo.java</file>
             <file>file:/D:/Dropbox/Faculdade/JavaCMS/JavaCMS/src/java/servlet/users/UsersNovo.java</file>
         </group>
     </open-files>

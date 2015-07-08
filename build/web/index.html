@@ -1,16 +1,37 @@
 <!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
-<html>
+<html ng-app="app" lang="pt">
     <head>
-        <title>TODO supply a title</title>
+        <title>Titulo</title>
         <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0,user-scalable=no">
+        <!-- CSS -->
+        <link rel="stylesheet" href="css/style.css" />             
+
+        <!-- BIBLIOTECAS -->
+        <script src="frontend/libs/angular.js"></script>
+        <script src="frontend/libs/angular-local-storage.js"></script>
+        <script src="frontend/libs/angular-route.js"></script>
+        <!-- CONTROLLERS -->        
+        <script src="frontend/js/app.js"></script>
+        <script src="frontend/js/controllers/exemplo1Ctrl.js"></script>
+        <script src="frontend/js/controllers/exemplo2Ctrl.js"></script>
+        <script src="frontend/js/controllers/homeCtrl.js"></script>
+        <!-- DIRECTIVES -->        
+        <script src="frontend/js/directives/focusme.js"></script>
+        <!-- SERVICES -->        
+        <script src="frontend/js/services/backendService.js"></script>
+        <!-- FILTERS -->
+        <script src="frontend/js/filters/parImparFilter.js"></script> 
+        
+
     </head>
-    <body>
-        <div>TODO write content</div>
+        <div>
+            <a ng-class="{active: activetab === '/exemplo1'}" href="#/exemplo1">Listagem</a>
+            <a ng-class="{active: activetab === '/exemplo2'}" href="#/exemplo2">Cadastro</a>
+        </div>
+        <h1>{{titulo}}</h1>
+        <div ng-view>
+             algo vai ser renderizado bem aqui
+        </div>
     </body>
 </html>
